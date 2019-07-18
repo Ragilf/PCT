@@ -41,7 +41,7 @@ def banner():
 
     runntxt(GL+"      =========================================================")
     runntxt(GL+"      ---------------------------------------------------------")
-    runntxt(WW+"                TOOLS INI KHUSUS UNTUK ANGGOTA PCT    ")
+    runntxt(WW+"                      SELAMAT DATANG     ")
     runntxt(GL+"      ---------------------------------------------------------")
     runntxt(GL+"                 ~ Author By : Mr D4PLU17  ")
     runntxt(GL+"                 ~ Team      : PCT [Purwokerto Cyber Team")
